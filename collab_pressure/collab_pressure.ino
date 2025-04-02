@@ -2,8 +2,6 @@
 //code for breadboard with led and pressure sensor
 //
 int sensor = 0;
-int testing; 
-
 void setup()
 {
   pinMode(A0, INPUT);
